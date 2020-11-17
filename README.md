@@ -3,8 +3,8 @@ Variedad de scripts hechos en Autotkey, para uso personal.
 
 Descripción de los módulos:
 
-- **always\_on_top.ahk**: `CTRL + SPACE` para activar. La ventana activa se mantiene en primer plano, a menos que sea minimizada.
-- **fast_scroll.ahk**: `Click Derecho + Rueda del ratón` para activar scroll acelerado
+- **always\_on_top.ahk**: `CTRL + SPACE` para activar. La ventana activa se mantiene en primer plano, a menos que sea minimizada. Deshabilitado para Sublime Text.
+- **fast_scroll.ahk**: `Click Derecho + Rueda del ratón` para activar scroll acelerado. Deshabilitado para Sublime Text.
 - **form_filler.ahk**:  `ALT + Insert` para llenar formularios con _foo_ y _bar_.
 - **numpad_search.ahk**: `NUMPAD SUB + NUMPAD ADD` acceso directo a `CTRL + F`
 - **super_copy.ahk**: `CTRL + SHIFT + C` para activar. Selecciona el texto a copiar y pega en el instante con clic derecho. Automáticamente se desactiva una vez que se pego el texto seleccionado.
